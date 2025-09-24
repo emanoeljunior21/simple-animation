@@ -11,7 +11,7 @@ As barras se movimentam em looping e podem ser **pausadas/retomadas com um cliqu
 
 - 🌐 **HTML5** → Estrutura da página  
 - 🎨 **CSS3** → Estilização e animações  
-- ⚡ **JavaScript (ES6+)** → Interatividade e controle da animação  
+- ⚡ **JavaScript** → Interatividade e controle da animação  
 
 ---
 
