@@ -3,7 +3,7 @@
 Uma animação sonora interativa desenvolvida com **HTML, CSS e JavaScript**.  
 As barras se movimentam em looping e podem ser **pausadas/retomadas com um clique**.  
 
-![Preview da Animação](./assets/download.gif)  
+![Preview da Animação](./assets/animation.gif)  
 
 ---
 
@@ -32,5 +32,5 @@ As barras se movimentam em looping e podem ser **pausadas/retomadas com um cliqu
 ├── style.css        # Estilização e animações
 ├── script.js        # Lógica JS para pausar/retomar
 ├── assets/
-│   └── demo.gif     # Demonstração animada
+│   └── animation.gif     # Demonstração animada
 └── README.md        # Documentação
