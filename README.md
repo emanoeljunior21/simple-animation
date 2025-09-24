@@ -3,7 +3,7 @@
 Uma animação sonora interativa desenvolvida com **HTML, CSS e JavaScript**.  
 As barras se movimentam em looping e podem ser **pausadas/retomadas com um clique**.  
 
-![Preview do Projeto](https://i.ibb.co/8DnM15Ks/Captura-de-tela-2025-09-23-235958.png)  
+![Preview da Animação](./assets/download)  
 
 ---
 
@@ -31,4 +31,6 @@ As barras se movimentam em looping e podem ser **pausadas/retomadas com um cliqu
 ├── index.html       # Estrutura HTML
 ├── style.css        # Estilização e animações
 ├── script.js        # Lógica JS para pausar/retomar
+├── assets/
+│   └── demo.gif     # Demonstração animada
 └── README.md        # Documentação
